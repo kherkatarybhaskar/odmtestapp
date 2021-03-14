@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/odmtestapp/static/css/main.ed6d0169.chunk.css",
+    "main.js": "/odmtestapp/static/js/main.1efbd4d8.chunk.js",
+    "main.js.map": "/odmtestapp/static/js/main.1efbd4d8.chunk.js.map",
+    "runtime-main.js": "/odmtestapp/static/js/runtime-main.634f8fd8.js",
+    "runtime-main.js.map": "/odmtestapp/static/js/runtime-main.634f8fd8.js.map",
+    "static/js/2.e55735f0.chunk.js": "/odmtestapp/static/js/2.e55735f0.chunk.js",
+    "static/js/2.e55735f0.chunk.js.map": "/odmtestapp/static/js/2.e55735f0.chunk.js.map",
+    "static/css/3.56d8f420.chunk.css": "/odmtestapp/static/css/3.56d8f420.chunk.css",
+    "static/js/3.1b853be2.chunk.js": "/odmtestapp/static/js/3.1b853be2.chunk.js",
+    "static/js/3.1b853be2.chunk.js.map": "/odmtestapp/static/js/3.1b853be2.chunk.js.map",
+    "index.html": "/odmtestapp/index.html",
+    "precache-manifest.a3fa65b75553d0e664b4bd7ac5ffe498.js": "/odmtestapp/precache-manifest.a3fa65b75553d0e664b4bd7ac5ffe498.js",
+    "service-worker.js": "/odmtestapp/service-worker.js",
+    "static/css/3.56d8f420.chunk.css.map": "/odmtestapp/static/css/3.56d8f420.chunk.css.map",
+    "static/css/main.ed6d0169.chunk.css.map": "/odmtestapp/static/css/main.ed6d0169.chunk.css.map",
+    "static/js/2.e55735f0.chunk.js.LICENSE.txt": "/odmtestapp/static/js/2.e55735f0.chunk.js.LICENSE.txt",
+    "static/media/attaimage.png": "/odmtestapp/static/media/attaimage.cc9495e9.png",
+    "static/media/logo.jpg": "/odmtestapp/static/media/logo.668b8e05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.634f8fd8.js",
+    "static/js/2.e55735f0.chunk.js",
+    "static/css/main.ed6d0169.chunk.css",
+    "static/js/main.1efbd4d8.chunk.js"
+  ]
+}
